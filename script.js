@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function () {
     // Puede ser un archivo .mp3, .m4a, .ogg, etc.
     // Ejemplo: 'musica/cancion.mp3' o 'https://ejemplo.com/cancion.mp3'
     // ========================================
-    const MUSICA_URL = 'C:\\Users\\andre\\Downloads\\Carta\\js\\Frankie.mp3';
+    const MUSICA_URL = 'Frankie.mp3';
     // ========================================
 
     let audio = null;
